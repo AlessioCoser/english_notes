@@ -27,7 +27,7 @@ nav_order: 2
 | scoop up         | raccogliere |
 | tongue           | lingua |
 | to hone          | affinare, perfezionare |
-| muhsy            | pastoso, colloso |
+| mushy            | pastoso, colloso |
 | crunchy          | croccante |
 | sauce pan        | tegame |
 | pot              | pentolino |
