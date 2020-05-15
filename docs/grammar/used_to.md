@@ -31,7 +31,7 @@ It's an expression. It is not a tense.
 
 #### Structure
 
-subject | main verb `use` | be | used to | object |
+subject | main verb `be` | used to | object |
 
 - **be used to** something
 - **be used to** doing something
