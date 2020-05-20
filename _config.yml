@@ -4,4 +4,3 @@ aux_links:
   "English Notes on GitHub":
     - "//github.com/AlessioCoser/english_notes"
 remote_theme: pmarsceill/just-the-docs
-theme: jekyll-theme-cayman
