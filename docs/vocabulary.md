@@ -2,7 +2,6 @@
 layout: default
 title: Vocabulary
 nav_order: 1
-has_children: true
 ---
 
 # Vocabulary
@@ -251,9 +250,13 @@ misurino (recipiente trasparente con le misure)
 
 colino
 
-## sink
+## sink (noun)
 
-lavello
+lavello, fogna (= posto corrotto) => _(Stay out of that bar. It's a dirty, nasty sink.)_
+
+## sink (verb)
+
+affondare, andare a fondo, colare a picco
 
 ## wok
 
@@ -335,4 +338,222 @@ marmellata, confettura
 
 secondo me (in my opinion)
 
+## trunk
 
+bagagliaio, baule, cassa, tronco, fusto, proboscide
+
+## flinch
+
+trasalire, sobbalzare, sussultare _(flinch from ... = tirarsi indietro da ...)_
+
+## flatter
+
+lusingare, adulare
+
+## yarn
+
+filo, storia lunga
+
+## swivel
+
+ruotare, girare, roteare (perno, anello girevole)
+
+## rattle (verb)
+
+sferragliare, far sbatacchiare, far sbattere, irritare, innervosire
+
+## rattle (noun)
+
+sonaglio, crotalo
+
+## crimson
+
+cremisi
+
+## crop up
+
+saltare fuori, spuntare fuori, venire fuori
+
+## throb
+
+pulsare, palpitare, vibrazione, pulsazione
+
+## toe
+
+dito del piede, punta
+
+## curled (curl)
+
+arricciato (ricciolo, boccolo)
+
+## as though a tidal
+
+come se fosse una marea
+
+## whomp (whomping)
+
+botto, batosta (battitore)
+
+## willow
+
+salice
+
+## beaming
+
+raggiante, splendente
+
+## wiff of damp earth
+
+odore di terra umida
+
+## wink
+
+fare l'occhiolino, strizzare l'occhio, ammiccare (in un istante, in un batter d'occhio = I didn't get a wink of sleep last night, because of the noisy party next door.)
+
+## stride off
+
+allontanarsi
+
+## stride
+
+passo, falcata, andatura
+
+## trestle
+
+cavalletto
+
+## bench
+
+panca, panchina, tavolo da lavoro, banco, banco dei giudici
+
+## earmuff
+
+paraorecchie
+
+## robes
+
+vestiti
+
+## hiccoughing
+
+singhiozzo
+
+## loathe
+
+detestare, 	provare avversione per
+
+## scallywag
+
+furfante, mascalzone
+
+## rogue
+
+furfante, malvivente, filibustiere, canaglia
+
+## drowsy
+
+sonnolento
+
+## wobble
+
+oscillare, ondeggiare, traballare, barcollare (ondeggiamento, traballamento, barcollamento, oscillazione, tremolio)
+
+## convict
+
+galeotto, detenuto (convict somebody = condannare qualcuno, dichiarare colpevole qualcuno)
+
+## layabout
+
+ozioso
+
+## filthy
+
+sudicio, lercio, sporco, schifoso, osceno, sconcio, turpe
+
+## nasty
+
+odioso, malevolo, cattivo, disgustoso, nauseante, brutto, serio, grave
+
+## matted, elbow length tangle (talking of hair)
+
+un groviglio arruffato lunghi fino al gomito
+
+## hanging
+
+impiccagione, sospeso
+
+## squint
+
+strabismo, strizzare gli occhi (She squinted as she tried to see something => ha strizzato gli occhi ...)
+
+## whack
+
+colpire, picchiare, botta, colpo
+
+## shin
+
+stinco, tibia
+
+## chase
+
+inseguire, cacciare (caccia, inseguimento)
+
+## smirk
+
+sorrisetto, fare un sorrisetto
+
+## shoulder
+
+spalla
+
+## cheek
+
+guancia
+
+## jaw
+
+mascella, mandibola
+
+## bony
+
+ossuto
+
+## cheekbone
+
+zigomo
+
+## wince
+
+sussultare, trasalire, smorfia, balzo indietro
+
+## runty
+
+piccolo e debole
+
+## forehead
+
+fronte
+
+## dwell
+
+dimorare, risiedere, rimuginare sopra, 	dilungarsi su
+
+## chin
+
+mento
+
+## crunch of gravel
+
+scricchiolio di ghiaia
+
+## trodden
+
+battuto
+
+## tread
+
+camminare, percorrere
+
+## tread on, tread upon
+
+calpestare, pestare, schiacciare
