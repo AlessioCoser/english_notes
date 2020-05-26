@@ -406,7 +406,7 @@ raggiante, splendente
 
 odore di terra umida
 
-## wink
+## wink
 
 fare l'occhiolino, strizzare l'occhio, ammiccare (in un istante, in un batter d'occhio = I didn't get a wink of sleep last night, because of the noisy party next door.)
 
@@ -414,7 +414,7 @@ fare l'occhiolino, strizzare l'occhio, ammiccare (in un istante, in un batter d'
 
 allontanarsi
 
-## stride
+## stride
 
 passo, falcata, andatura
 
@@ -434,7 +434,7 @@ paraorecchie
 
 vestiti
 
-## hiccoughing
+## hiccoughing
 
 singhiozzo
 
@@ -474,11 +474,11 @@ sudicio, lercio, sporco, schifoso, osceno, sconcio, turpe
 
 odioso, malevolo, cattivo, disgustoso, nauseante, brutto, serio, grave
 
-## matted, elbow length tangle (talking of hair)
+## matted, elbow length tangle (talking of hair)
 
 un groviglio arruffato lunghi fino al gomito
 
-## hanging
+## hanging
 
 impiccagione, sospeso
 
