@@ -1,10 +1,11 @@
 ---
 layout: default
-title: Vocabulary
-nav_order: 1
+title: Other
+parent: Vocabulary
+nav_order: 99
 ---
 
-# Vocabulary
+# Other
 
 ## amid
 
@@ -118,38 +119,6 @@ strillare / piangere sonoramente
 
 prepararsi
 
-## go on a diet
-
-mettersi a dieta
-
-## powder
-
-polvere
-
-## palate
-
-palato
-
-## dry pasta
-
-pasta "secca" confezionata
-
-## fresh pasta
-
-pasta fresca (quella all'uovo)
-
-## carbohydrate
-
-carboidrato
-
-## scaffold
-
-impalcatura
-
-## durum wheat
-
-grano duro
-
 ## blossomed
 
 fiorito
@@ -158,149 +127,9 @@ fiorito
 
 Rinascimento
 
-## ribbed
-
-rigate (come le penne)
-
-## smooth
-
-liscie
-
-## dough
-
-impasto
-
-## slanted
-
-inclinata
-
-## bow ties
-
-papillon
-
-## scoop up
-
-raccogliere
-
-## tongue
-
-lingua
-
 ## to hone
 
 affinare, perfezionare
-
-## mushy
-
-pastoso, colloso
-
-## crunchy
-
-croccante
-
-## sauce pan
-
-tegame
-
-## pot
-
-pentolino
-
-## food processor
-
-robot da cucina
-
-## dish rack
-
-colapiatti
-
-## blender
-
-miscelatore
-
-## oven
-
-forno
-
-## refrigerator
-
-frigo
-
-## scales
-
-bilancia
-
-## kitchen island
-
-cucina a isola (isola della cucina)
-
-## plastic wrap
-
-pellicola di plastica trasparente
-
-## spatula
-
-spatola
-
-## measuting cup
-
-misurino (recipiente trasparente con le misure)
-
-## colander
-
-colino
-
-## sink (noun)
-
-lavello, fogna (= posto corrotto) => _(Stay out of that bar. It's a dirty, nasty sink.)_
-
-## sink (verb)
-
-affondare, andare a fondo, colare a picco
-
-## wok
-
-wok (padella con fondo non piatto)
-
-## to grill
-
-cuocere alla griglia
-
-## to fry
-
-friggere
-
-## pan
-
-padella
-
-## to bake
-
-infornare
-
-## to slice
-
-affettare
-
-## barbecue
-
-barbecue
-
-## to boil
-
-bollire
-
-## to roast
-
-arrostire
-
-## to chop
-
-tagliuzzare, tritare, fare a pezzi
-
-## heat
-
-calore / riscaldare
 
 ## reckon
 
@@ -377,10 +206,6 @@ saltare fuori, spuntare fuori, venire fuori
 ## throb
 
 pulsare, palpitare, vibrazione, pulsazione
-
-## toe
-
-dito del piede, punta
 
 ## curled (curl)
 
@@ -490,10 +315,6 @@ strabismo, strizzare gli occhi (She squinted as she tried to see something => ha
 
 colpire, picchiare, botta, colpo
 
-## shin
-
-stinco, tibia
-
 ## chase
 
 inseguire, cacciare (caccia, inseguimento)
@@ -501,26 +322,6 @@ inseguire, cacciare (caccia, inseguimento)
 ## smirk
 
 sorrisetto, fare un sorrisetto
-
-## shoulder
-
-spalla
-
-## cheek
-
-guancia
-
-## jaw
-
-mascella, mandibola
-
-## bony
-
-ossuto
-
-## cheekbone
-
-zigomo
 
 ## wince
 
@@ -530,17 +331,9 @@ sussultare, trasalire, smorfia, balzo indietro
 
 piccolo e debole
 
-## forehead
-
-fronte
-
 ## dwell
 
 dimorare, risiedere, rimuginare sopra, 	dilungarsi su
-
-## chin
-
-mento
 
 ## crunch of gravel
 
@@ -557,3 +350,67 @@ camminare, percorrere
 ## tread on, tread upon
 
 calpestare, pestare, schiacciare
+
+## flood
+
+allagamento
+
+## swan
+
+oca
+
+## walrus
+
+tricheco
+
+## worm
+
+verme
+
+## earthworm
+
+lombrico
+
+## bumblebee
+
+bombo
+
+## eat out
+
+mangiare fuori (al ristorante)
+
+## eat outside
+
+mangiare fuori all'aperto
+
+## jargon
+
+gergo
+
+## pickpocket
+
+borseggiatore
+
+## to remark
+
+fare un'osservazione
+
+## I remark you
+
+ti faccio notare
+
+## set off
+
+mettersi in viaggio / partire
+
+## overcome
+
+vincere / dominare
+
+## mirror
+
+specchio
+
+## to mirror
+
+rispecchiare
