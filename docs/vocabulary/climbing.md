@@ -25,7 +25,7 @@ _The first person to ascend a route by lead climbing and placing their own gear.
 ## Second
 La seconda persona a salire un percorso, seguendo uno scalatore principale. (solitamente è assicurata bene con la corda al punto più alto della via)
 
-## Sling
+## Harness
 imbracatura
 
 ## Rope
